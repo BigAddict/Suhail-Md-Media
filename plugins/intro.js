@@ -45,19 +45,20 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Secktor-bot' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://bigaddict.pythonanywhere.com' // Source URL
+const number = '254799389806'
+var name = ' Big Addict'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://raw.githubusercontent.com/BigAddict/portfolio/2c9063f0174a7dd95c6a7509a62ff490c13b8569/media/about/profile.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
 │ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
 │ Place       : ʟαнᴏʀᴇ ᴘᴋ
 │ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
+│ Age          : 20_
+│ Phone     : wa.me/254799389806
+│ Portfolio   : https://bigaddict.pythonanywhere.com
+| Github     : https://github.com/BigAddict
 │ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
